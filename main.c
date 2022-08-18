@@ -14,6 +14,8 @@ int main()
 int i=sub(&x,&y);
 printf("sub=%d\n",i);
 int n=mul(x,y);
-printf("sub=%d\n",n);
+printf("mul=%d\n",n);
+int p=mul(x,y);
+printf("div=%d\n",p);
     return 0;
 }

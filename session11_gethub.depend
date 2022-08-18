@@ -1,5 +1,12 @@
 # depslib dependency file v1.0
 1660818883 source:e:\emm course\session11_gethub\op.c
 
-1660820284 source:e:\emm course\session11_gethub\zeft.c
+1660829577 source:e:\emm course\session11_gethub\zeft.c
+
+1660820284 source:e:\emm course\session11_gethub\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zeft.h"
+
+1660829551 e:\emm course\session11_gethub\zeft.h
 
